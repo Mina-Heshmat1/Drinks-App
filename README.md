@@ -30,10 +30,6 @@ Once you've forked this repository, go ahead and make the following changes to t
 [Drive](https://drive.google.com/file/d/1jmHyM5Pp4ZaAROIjp4AusAuBqFP8jrMn/view?usp=drivesdk)_learn More
 
 
-#### Model of the application :
-<div>
-<img src="https://user-images.githubusercontent.com/121980036/229344495-2bc8a07b-30bb-4dac-a6ad-3e556748cd36.jpg"width="75%">
-</div>
 
 
 ### Ask About More Help
