@@ -1,4 +1,4 @@
-# Dronks-App 🍹 
+# Drinks-App 🍹 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FFF521&vCenter=true&width=435&lines=Enjoy+a+fresh+drink+for+all+fruits%F0%9F%A5%97)](https://git.io/typing-svg)
 
